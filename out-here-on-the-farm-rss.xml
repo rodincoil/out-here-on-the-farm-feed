@@ -24,7 +24,8 @@
     <!-- Episode 001 -->
     <item>
       <title>001. Storyteller</title>
-      <itunes:episode>1</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>1</itunes:episode>
       <description>In the first episode, Sonja recalls fond memories of her father, a great storyteller.</description>
       <pubDate>Mon, 14 Sep 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 001 - Storyteller.mp3" length="13148605" type="audio/mpeg"/>
@@ -34,7 +35,8 @@
     <!-- Episode 002 -->
     <item>
       <title>002. Geese</title>
-      <itunes:episode>2</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>2</itunes:episode>
       <description>What is your destiny?</description>
       <pubDate>Sun, 20 Sep 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 002 - Geese.mp3" length="12377330" type="audio/mpeg"/>
@@ -44,7 +46,8 @@
     <!-- Episode 003 -->
     <item>
       <title>003. First Time Ministering</title>
-      <itunes:episode>3</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>3</itunes:episode>
       <description>Sonja shares the story of her first public speaking experience.</description>
       <pubDate>Sun, 27 Sep 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 003 - First Time Ministering.mp3" length="23141987" type="audio/mpeg"/>
@@ -53,7 +56,8 @@
     <!-- Episode 004 -->
     <item>
       <title>004. Campfire</title>
-      <itunes:episode>4</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>4</itunes:episode>
       <description>Recounting the story of a campfire and breakfast on the shore with the resurrected son of God.</description>
       <pubDate>Sun, 04 Oct 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 004 - Campfire.mp3" length="12925009" type="audio/mpeg"/>
@@ -63,7 +67,8 @@
     <!-- Episode 005 -->
     <item>
       <title>005. Blind Man Healed</title>
-      <itunes:episode>5</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>5</itunes:episode>
       <description>Discussing the importance of focusing on the positive things in life.</description>
       <pubDate>Sun, 11 Oct 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 005 - Blind Man Healed.mp3" length="14307375" type="audio/mpeg"/>
@@ -73,7 +78,8 @@
     <!-- Episode 006 -->
     <item>
       <title>006. Never Too Late</title>
-      <itunes:episode>6</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>6</itunes:episode>
       <description>Wisdom from the elderly, sharing stories, and knowing it's never too late.</description>
       <pubDate>Sun, 18 Oct 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 006 - It's Never Too late.mp3" length="11371218" type="audio/mpeg"/>
@@ -83,7 +89,8 @@
     <!-- Episode 007 -->
     <item>
       <title>007. John the Baptist</title>
-      <itunes:episode>7</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>7</itunes:episode>
       <description>Why did John the Baptist end up in the wilderness?</description>
       <pubDate>Sun, 25 Oct 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 007 - John The Baptist.mp3" length="24777214" type="audio/mpeg"/>
@@ -93,7 +100,8 @@
     <!-- Episode 007b -->
     <item>
       <title>007b. Halloween Special 2020 - Monster Hunting</title>
-      <itunes:episode>7</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>7</itunes:episode>
       <description>Our imagination can be a real monster sometimes.</description>
       <pubDate>Sat, 31 Oct 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 007b - Halloween Special - Monster Hunting.mp3" length="14409782" type="audio/mpeg"/>
@@ -103,7 +111,8 @@
     <!-- Episode 008 -->
     <item>
       <title>008. Light</title>
-      <itunes:episode>8</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>8</itunes:episode>
       <description>A story of a lamp and the power of light.</description>
       <pubDate>Sun, 01 Nov 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 008 - Light.mp3" length="22321664" type="audio/mpeg"/>
@@ -113,7 +122,8 @@
     <!-- Episode 009 -->
     <item>
       <title>009. Live Radio</title>
-      <itunes:episode>9</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>9</itunes:episode>
       <description>Recounting tales of broadcasting on live radio.</description>
       <pubDate>Sun, 08 Nov 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 009 - Live Radio.mp3" length="16255009" type="audio/mpeg"/>
@@ -123,7 +133,8 @@
     <!-- Episode 010 -->
     <item>
       <title>010. No Backtracking</title>
-      <itunes:episode>10</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>10</itunes:episode>
       <description>Following through, moving forward, and no going back.</description>
       <pubDate>Sun, 15 Nov 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 010 - No Backtracking.mp3" length="11443277" type="audio/mpeg"/>
@@ -132,7 +143,8 @@
     <!-- Episode 011 -->
     <item>
       <title>011. Peace</title>
-      <itunes:episode>11</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>11</itunes:episode>
       <description>Finding peace in the middle of a storm.</description>
       <pubDate>Sun, 22 Nov 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 011 - Peace.mp3" length="15127539" type="audio/mpeg"/>
@@ -142,7 +154,8 @@
     <!-- Episode 012 -->
     <item>
       <title>012. Place of Refuge</title>
-      <itunes:episode>12</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>12</itunes:episode>
       <description>Finding a place of refuge.</description>
       <pubDate>Sun, 29 Nov 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 012 - Place Of Refuge.mp3" length="16813998" type="audio/mpeg"/>
@@ -152,7 +165,8 @@
     <!-- Episode 013 -->
     <item>
       <title>013. Scary Pathway</title>
-      <itunes:episode>13</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>13</itunes:episode>
       <description>A story from childhood about a log cabin, a big hill, and a dark pathway.</description>
       <pubDate>Sun, 06 Dec 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 013 - Scary Pathway.mp3" length="16517337" type="audio/mpeg"/>
@@ -162,7 +176,8 @@
     <!-- Episode 014 -->
     <item>
       <title>014. Set Them Free</title>
-      <itunes:episode>14</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>14</itunes:episode>
       <description>The story of an injured raccoon and a lesson in knowing when to let go.</description>
       <pubDate>Sun, 13 Dec 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 014 - Set Them Free.mp3" length="12965725" type="audio/mpeg"/>
@@ -172,7 +187,8 @@
     <!-- Episode 015 -->
     <item>
       <title>015. Starting Over</title>
-      <itunes:episode>15</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>15</itunes:episode>
       <description>Planting fruit trees, disappearing peaches, and starting over.</description>
       <pubDate>Sun, 20 Dec 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 015 - Starting Over.mp3" length="13722213" type="audio/mpeg"/>
@@ -182,7 +198,8 @@
     <!-- Episode 015b -->
     <item>
       <title>015b. Christmas Special 2020 - Memories of Christmas Trees</title>
-      <itunes:episode>15</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>15</itunes:episode>
       <description>Recalling two stories of hunting for the right Christmas Tree.</description>
       <pubDate>Fri, 25 Dec 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 015b - Christmas Special - Memories Of Christmas Trees.mp3" length="16706521" type="audio/mpeg"/>
@@ -192,7 +209,8 @@
     <!-- Episode 016 -->
     <item>
       <title>016. Small Voice</title>
-      <itunes:episode>16</itunes:episode>
+     <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>16</itunes:episode>
       <description>Recounting the story of Elijah in the cave.</description>
       <pubDate>Sun, 27 Dec 2020 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 016 - Small Voice.mp3" length="14290596" type="audio/mpeg"/>
@@ -202,7 +220,8 @@
     <!-- Episode 017 -->
     <item>
       <title>017. Willow Tree</title>
-      <itunes:episode>17</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>17</itunes:episode>
       <description>What type of tree would you be?</description>
       <pubDate>Sun, 03 Jan 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 017 - Willow Tree.mp3" length="13025200" type="audio/mpeg"/>
@@ -212,7 +231,8 @@
     <!-- Episode 018 -->
     <item>
       <title>018. Self</title>
-      <itunes:episode>18</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>18</itunes:episode>
       <description>With so much stress in our lives, what should we focus on?</description>
       <pubDate>Sun, 10 Jan 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 018 - Self.mp3" length="16998987" type="audio/mpeg"/>
@@ -222,7 +242,8 @@
     <!-- Episode 019 -->
     <item>
       <title>019. Mend the Brokenness</title>
-      <itunes:episode>19</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>19</itunes:episode>
       <description>Sometimes we can entertain angels, unaware.</description>
       <pubDate>Sun, 17 Jan 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 019 - Mend The Brokenness.mp3" length="30949420" type="audio/mpeg"/>
@@ -232,7 +253,8 @@
     <!-- Episode 020 -->
     <item>
       <title>020. Over My Head</title>
-      <itunes:episode>20</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>20</itunes:episode>
       <description>Have you ever found yourself in over your head?</description>
       <pubDate>Sun, 24 Jan 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 020 - Over My Head.mp3" length="18088810" type="audio/mpeg"/>
@@ -241,7 +263,8 @@
     <!-- Episode 021 -->
     <item>
       <title>021. Taught to Work</title>
-      <itunes:episode>21</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>21</itunes:episode>
       <description>Recounting the story of a father teaching children the value of work.</description>
       <pubDate>Sun, 31 Jan 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 021 - Taught To Work.mp3" length="23138849" type="audio/mpeg"/>
@@ -251,7 +274,8 @@
     <!-- Episode 022 -->
     <item>
       <title>022. Turn Off Electronic Devices</title>
-      <itunes:episode>22</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>22</itunes:episode>
       <description>A gentle reminder to take time to appreciate the nature around you.</description>
       <pubDate>Sun, 07 Feb 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 022 - Turn Off Electronic Devices.mp3" length="18070071" type="audio/mpeg"/>
@@ -261,7 +285,8 @@
     <!-- Episode 023 -->
     <item>
       <title>023. The Interview</title>
-      <itunes:episode>23</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>23</itunes:episode>
       <description>Sonja interviews her daughter, a poet and writer, on the subject of writing and the human experience.</description>
       <pubDate>Sun, 14 Feb 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 023 - The Interview.mp3" length="52824463" type="audio/mpeg"/>
@@ -271,7 +296,8 @@
     <!-- Episode 024 -->
     <item>
       <title>024. You Don't Know Where I've Been</title>
-      <itunes:episode>24</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>24</itunes:episode>
       <description>Sonja wants you to know that you may not feel qualified, but you have a talent to share.</description>
       <pubDate>Sun, 21 Feb 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 024 - You Don't Know Where I've Been.mp3" length="14763017" type="audio/mpeg"/>
@@ -281,7 +307,8 @@
     <!-- Episode 025 -->
     <item>
       <title>025. Country Church</title>
-      <itunes:episode>25</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>25</itunes:episode>
       <description>Take a drive through the country where we discover an old, country church.</description>
       <pubDate>Sun, 28 Feb 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 025 - Country Church.mp3" length="15597831" type="audio/mpeg"/>
@@ -291,7 +318,8 @@
     <!-- Episode 026 -->
     <item>
       <title>026. Meeting My Grandmother</title>
-      <itunes:episode>26</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>26</itunes:episode>
       <description>Sonja tells the story of meeting her grandmother for the first time.</description>
       <pubDate>Sun, 07 Mar 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 026 - Meeting My Grandmother.mp3" length="11522733" type="audio/mpeg"/>
@@ -301,7 +329,8 @@
     <!-- Episode 027 -->
     <item>
       <title>027. Stand Back and Regroup</title>
-      <itunes:episode>27</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>27</itunes:episode>
       <description>Never give up!</description>
       <pubDate>Sun, 14 Mar 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 027 - Stand Back and Regroup.mp3" length="15559066" type="audio/mpeg"/>
@@ -311,7 +340,8 @@
     <!-- Episode 028 -->
     <item>
       <title>028. In the Woods at Night</title>
-      <itunes:episode>28</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>28</itunes:episode>
       <description>Sonja tells the tale of the missing cow and a lantern in the darkness.</description>
       <pubDate>Sun, 21 Mar 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 028 - In The Woods At Night.mp3" length="17994833" type="audio/mpeg"/>
@@ -321,7 +351,8 @@
     <!-- Episode 029 -->
     <item>
       <title>029. Survivor</title>
-      <itunes:episode>29</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>29</itunes:episode>
       <description>How can I survive the trials and tribulations I face in life?</description>
       <pubDate>Sun, 28 Mar 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 029 - Survivor.mp3" length="15501662" type="audio/mpeg"/>
@@ -331,7 +362,8 @@
     <!-- Episode 030 -->
     <item>
       <title>030. God Has Got Your Back</title>
-      <itunes:episode>30</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>30</itunes:episode>
       <description>Sonja shares the story of a revival in Ohio.</description>
       <pubDate>Sun, 04 Apr 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 030 - God Has Got Your Back.mp3" length="13783842" type="audio/mpeg"/>
@@ -340,7 +372,8 @@
     <!-- Episode 031 -->
     <item>
       <title>031. Put Forth an Effort</title>
-      <itunes:episode>31</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>31</itunes:episode>
       <description>You can obtain and achieve the Promised Land for yourself.</description>
       <pubDate>Sun, 11 Apr 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 031 - Put Forth An Effort.mp3" length="16388797" type="audio/mpeg"/>
@@ -350,7 +383,8 @@
     <!-- Episode 032 -->
     <item>
       <title>032. Your Destiny</title>
-      <itunes:episode>32</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>32</itunes:episode>
       <description>Finding your destiny in life...</description>
       <pubDate>Sun, 18 Apr 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 032 - Your Destiny.mp3" length="16819227" type="audio/mpeg"/>
@@ -360,7 +394,8 @@
     <!-- Episode 033 -->
     <item>
       <title>033. Silver Eagle</title>
-      <itunes:episode>33</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>33</itunes:episode>
       <description>A four-part story of traveling out west to California and Oregon in the 60s - in part one, Sonja talks about the experience of taking a train from Illinois to California.</description>
       <pubDate>Sun, 25 Apr 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 033 - Silver Eagle.mp3" length="12582443" type="audio/mpeg"/>
@@ -370,7 +405,8 @@
     <!-- Episode 034 -->
     <item>
       <title>034. Hay Day</title>
-      <itunes:episode>34</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>34</itunes:episode>
       <description>A four-part story of traveling out west to California and Oregon in the 60s - in part two, Sonja shares a harrowing tale of driving a hay truck.</description>
       <pubDate>Sun, 02 May 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 034 - Hay Day.mp3" length="13608471" type="audio/mpeg"/>
@@ -380,7 +416,8 @@
     <!-- Episode 035 -->
     <item>
       <title>035. The Beautiful State of Oregon</title>
-      <itunes:episode>35</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>35</itunes:episode>
       <description>A four-part story of traveling out west to California and Oregon in the 60s - in part three, Sonja shares her experiences in the beautiful state of Oregon.</description>
       <pubDate>Sun, 09 May 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 035 - The Beautiful State Of Oregon.mp3" length="24624896" type="audio/mpeg"/>
@@ -390,7 +427,8 @@
     <!-- Episode 036 -->
     <item>
       <title>036. Heading Back to Our Home State</title>
-      <itunes:episode>36</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>36</itunes:episode>
       <description>A four-part story of traveling out west to California and Oregon in the 60s - in part four, Sonja concludes her tales of traveling out west with a twist that changed everything and brought her back home.</description>
       <pubDate>Sun, 16 May 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 036 - Heading Back To Our Home State.mp3" length="17681647" type="audio/mpeg"/>
@@ -400,7 +438,8 @@
     <!-- Episode 037 -->
     <item>
       <title>037. Childhood Adventures</title>
-      <itunes:episode>37</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>37</itunes:episode>
       <description>A younger brother takes a fall and ends up in a hospital, and then a creek unexpectedly.</description>
       <pubDate>Sun, 23 May 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 037 - Childhood Adventures.mp3" length="12766197" type="audio/mpeg"/>
@@ -410,7 +449,8 @@
     <!-- Episode 038 -->
     <item>
       <title>038. Strawberry Susie the Pig</title>
-      <itunes:episode>38</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>38</itunes:episode>
       <description>The story of a pet pig named Strawberry Susie.</description>
       <pubDate>Sun, 30 May 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 038 - Strawberry Susie The Pig.mp3" length="10636619" type="audio/mpeg"/>
@@ -420,7 +460,8 @@
     <!-- Episode 039 -->
     <item>
       <title>039. Jesus Waiting at the Well</title>
-      <itunes:episode>39</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>39</itunes:episode>
       <description>Sonja tells the story of the woman at the well.</description>
       <pubDate>Sun, 06 Jun 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 039 - Jesus Waiting At The Well.mp3" length="13918648" type="audio/mpeg"/>
@@ -430,7 +471,8 @@
     <!-- Episode 040 -->
     <item>
       <title>040. A Reflection in the Mirror</title>
-      <itunes:episode>40</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>40</itunes:episode>
       <description>Seeing your reflection in the water of a small brook and learning the destination of the water...</description>
       <pubDate>Sun, 13 Jun 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 040 - A Reflection In The Mirror.mp3" length="12339909" type="audio/mpeg"/>
@@ -439,7 +481,8 @@
     <!-- Episode 041 -->
     <item>
       <title>041. Fun Things To Do at the Homestead</title>
-      <itunes:episode>41</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>41</itunes:episode>
       <description>Sharing the tale of a simple adventure on the homestead.</description>
       <pubDate>Sun, 20 Jun 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 041 - Fun Things To Do At The Homestead.mp3" length="16875743" type="audio/mpeg"/>
@@ -449,7 +492,8 @@
     <!-- Episode 042 -->
     <item>
       <title>042. Gifted from Generation to Generation</title>
-      <itunes:episode>42</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>42</itunes:episode>
       <description>Finding your platform and desire to use your talents.</description>
       <pubDate>Sun, 27 Jun 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 042 - Gifted From Generation To Generation.mp3" length="14430682" type="audio/mpeg"/>
@@ -459,7 +503,8 @@
     <!-- Episode 043 -->
     <item>
       <title>043. Heartbroken</title>
-      <itunes:episode>43</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>43</itunes:episode>
       <description>Sharing the story of Brownie the dog and gaining wisdom through adversity.</description>
       <pubDate>Sun, 04 Jul 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 043 - Heartbroken.mp3" length="17017841" type="audio/mpeg"/>
@@ -469,7 +514,8 @@
     <!-- Episode 044 -->
     <item>
       <title>044. I Wanted To Know if God Was Real</title>
-      <itunes:episode>44</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>44</itunes:episode>
       <description>Finding your path to a one-on-one experience with God.</description>
       <pubDate>Sun, 11 Jul 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 044 - I Wanted To Know If God Was Real.mp3" length="19397076" type="audio/mpeg"/>
@@ -479,7 +525,8 @@
     <!-- Episode 045 -->
     <item>
       <title>045. Life Can Be Like the Four Seasons</title>
-      <itunes:episode>45</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>45</itunes:episode>
       <description>Comparing the changes of seasons to the changes in our lives.</description>
       <pubDate>Sun, 18 Jul 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 045 - Life Can Be Like The Four Seasons.mp3" length="12531067" type="audio/mpeg"/>
@@ -489,7 +536,8 @@
     <!-- Episode 046 -->
     <item>
       <title>046. Settling Down on the Homestead</title>
-      <itunes:episode>46</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>46</itunes:episode>
       <description>Learning to settle down and build a home.</description>
       <pubDate>Sun, 25 Jul 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 046 - Settling Down On The Homestead.mp3" length="15410760" type="audio/mpeg"/>
@@ -499,7 +547,8 @@
     <!-- Episode 047 -->
     <item>
       <title>047. A Family Adventure</title>
-      <itunes:episode>47</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>47</itunes:episode>
       <description>Despite our differences, we can find a way to work together.</description>
       <pubDate>Sun, 01 Aug 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 047 - A Family Adventure.mp3" length="17677158" type="audio/mpeg"/>
@@ -509,7 +558,8 @@
     <!-- Episode 048 -->
     <item>
       <title>048. A Hitchhiker that Could Be an Angel</title>
-      <itunes:episode>48</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>48</itunes:episode>
       <description>You might entertain an angel, unaware.</description>
       <pubDate>Sun, 08 Aug 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 048 - A Hitchhiker That Could Be An Angel.mp3" length="19391825" type="audio/mpeg"/>
@@ -519,7 +569,8 @@
     <!-- Episode 049 -->
     <item>
       <title>049. Imaginary Storms in Our Mind</title>
-      <itunes:episode>49</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>49</itunes:episode>
       <description>Sometimes the storm we create in our mind is nothing more than wind.</description>
       <pubDate>Sun, 15 Aug 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 049 - Imaginary Storms In Our Mind.mp3" length="12105798" type="audio/mpeg"/>
@@ -529,7 +580,8 @@
     <!-- Episode 050 -->
     <item>
       <title>050. Is Anybody Out There Listening</title>
-      <itunes:episode>50</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>50</itunes:episode>
       <description>God is listening.</description>
       <pubDate>Sun, 22 Aug 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 050 - Is Anybody Out There Listening.mp3" length="11444280" type="audio/mpeg"/>
@@ -538,7 +590,8 @@
     <!-- Episode 051 -->
     <item>
       <title>051. Journey to the Garden of Eden (part 1)</title>
-      <itunes:episode>51</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>51</itunes:episode>
       <description>Sonja takes you on a journey into the Garden of Eden.</description>
       <pubDate>Sun, 29 Aug 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 051 - Journey To The Garden of Eden (Part 1).mp3" length="22610129" type="audio/mpeg"/>
@@ -548,7 +601,8 @@
     <!-- Episode 052 -->
     <item>
       <title>052. Journey to the Garden of Eden (part 2)</title>
-      <itunes:episode>52</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>52</itunes:episode>
       <description>Sonja continues the journey into the Garden of Eden.</description>
       <pubDate>Sun, 05 Sep 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 052 - Journey To The Garden of Eden (Part 2).mp3" length="19645752" type="audio/mpeg"/>
@@ -558,7 +612,8 @@
     <!-- Episode 053 -->
     <item>
       <title>053. Let's Go Exploring</title>
-      <itunes:episode>53</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>53</itunes:episode>
       <description>Let's explore the beautiful creation around us and find peace.</description>
       <pubDate>Sun, 12 Sep 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 053 - Let's Go Exploring.mp3" length="16373129" type="audio/mpeg"/>
@@ -568,7 +623,8 @@
     <!-- Episode 054 -->
     <item>
       <title>054. Dear Dad</title>
-      <itunes:episode>54</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>54</itunes:episode>
       <description>Sonja reflects on the memories of her father, an incredible storyteller, on the 1st anniversary of the Out Here On The Farm podcast.</description>
       <pubDate>Sun, 19 Sep 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 054 - Dear Dad.mp3" length="16965706" type="audio/mpeg"/>
@@ -578,7 +634,8 @@
     <!-- Episode 055 -->
     <item>
       <title>055. A Blessing to Know Brother Isaac</title>
-      <itunes:episode>55</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>55</itunes:episode>
       <description>Sonja shares a story about an incredible man named Isaac.</description>
       <pubDate>Sun, 26 Sep 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 055 - A Blessing To Know Brother Isaac.mp3" length="18443090" type="audio/mpeg"/>
@@ -588,7 +645,8 @@
     <!-- Episode 056 -->
     <item>
       <title>056. Let's Go Visit David the Shepherd</title>
-      <itunes:episode>56</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>56</itunes:episode>
       <description>Sonja shares a few stories about David (Part 1).</description>
       <pubDate>Sun, 03 Oct 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 056 - Let's Go Visit David The Shepherd.mp3" length="16491205" type="audio/mpeg"/>
@@ -598,7 +656,8 @@
     <!-- Episode 057 -->
     <item>
       <title>057. David Playing the Harp for the King</title>
-      <itunes:episode>57</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>57</itunes:episode>
       <description>Sonja continues stories of David (part 2).</description>
       <pubDate>Sun, 10 Oct 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 057 - David Playing The Harp For The King (David Part 2).mp3" length="15099393" type="audio/mpeg"/>
@@ -608,7 +667,8 @@
     <!-- Episode 058 -->
     <item>
       <title>058. David and the Giant</title>
-      <itunes:episode>58</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>58</itunes:episode>
       <description>Sonja continues with stories about David (part 3).</description>
       <pubDate>Sun, 17 Oct 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 058 - David and the Giant (David part 3).mp3" length="14923834" type="audio/mpeg"/>
@@ -618,7 +678,8 @@
     <!-- Episode 059 -->
     <item>
       <title>059. Just When You Thought It Was Over</title>
-      <itunes:episode>59</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>59</itunes:episode>
       <description>Just when you felt that everything had been completed...</description>
       <pubDate>Sun, 24 Oct 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 059 - Just When You Thought It Was Over.mp3" length="10515449" type="audio/mpeg"/>
@@ -628,7 +689,8 @@
     <!-- Episode 059b -->
     <item>
       <title>059b. Halloween Special 2021 - Seen and Unseen Mysteries</title>
-      <itunes:episode>59</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>59</itunes:episode>
       <description>Sonja recounts the tale of a spooky old house out in the country.</description>
       <pubDate>Sun, 31 Oct 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 059b - Halloween Special - Seen and Unseen Mysteries.mp3" length="17465119" type="audio/mpeg"/>
@@ -638,7 +700,8 @@
     <!-- Episode 060 -->
     <item>
       <title>060. Beware of the Unexplained</title>
-      <itunes:episode>60</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>60</itunes:episode>
       <description>Sonja shares another campfire worthy tale of a voice in the darkness with a warning in this 2nd of three stories to enjoy during this fall season.</description>
       <pubDate>Sun, 07 Nov 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 060 - Beware of the Unexplained.mp3" length="19980299" type="audio/mpeg"/>
@@ -647,7 +710,8 @@
     <!-- Episode 061 -->
     <item>
       <title>061. Beware of the Darkness</title>
-      <itunes:episode>61</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>61</itunes:episode>
       <description>In this third installment of campfire worthy tales, Sonja shares a story of an unseen menace and a very long night.</description>
       <pubDate>Sun, 14 Nov 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 061 - Beware of the Darkness.mp3" length="17792215" type="audio/mpeg"/>
@@ -657,7 +721,8 @@
     <!-- Episode 062 -->
     <item>
       <title>062. Attending School in the 50s</title>
-      <itunes:episode>62</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>62</itunes:episode>
       <description>Sonja shares a tale of school in the 50s and a very special teacher.</description>
       <pubDate>Sun, 21 Nov 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 062 - Attending School In The 50s.mp3" length="17820343" type="audio/mpeg"/>
@@ -667,7 +732,8 @@
     <!-- Episode 063 -->
     <item>
       <title>063. Dad Don't Leave</title>
-      <itunes:episode>63</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>63</itunes:episode>
       <description>Sonja shares the importance of parents.</description>
       <pubDate>Sun, 05 Dec 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 063 - Dad Don't Leave.mp3" length="16354269" type="audio/mpeg"/>
@@ -677,7 +743,8 @@
     <!-- Episode 064 -->
     <item>
       <title>064. Broken Pieces in Life</title>
-      <itunes:episode>64</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>64</itunes:episode>
       <description>Forget about the darkness and look forward to a brighter day.</description>
       <pubDate>Sun, 12 Dec 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 064 - Broken Pieces In Life.mp3" length="14828774" type="audio/mpeg"/>
@@ -687,7 +754,8 @@
     <!-- Episode 065 -->
     <item>
       <title>065. Past Regrets</title>
-      <itunes:episode>65</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>65</itunes:episode>
       <description>Sonja discusses past regrets and how we manage those feelings.</description>
       <pubDate>Sun, 26 Dec 2021 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 065 - Past Regrets.mp3" length="17522505" type="audio/mpeg"/>
@@ -697,7 +765,8 @@
     <!-- Episode 066 -->
     <item>
       <title>066. Moses Chosen to Lead the People Out of Bondage</title>
-      <itunes:episode>66</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>66</itunes:episode>
       <description>We go on an adventure to meet Moses.</description>
       <pubDate>Sun, 02 Jan 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 066 Moses Chosen To Lead The People Out Of Bondage.mp3" length="16384627" type="audio/mpeg"/>
@@ -707,7 +776,8 @@
     <!-- Episode 067 -->
     <item>
       <title>067. The Making of a Golden Calf</title>
-      <itunes:episode>67</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>67</itunes:episode>
       <description>We continue our story of Moses.</description>
       <pubDate>Sun, 09 Jan 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 067 The Making Of A Golden Calf.mp3" length="19974848" type="audio/mpeg"/>
@@ -717,7 +787,8 @@
     <!-- Episode 068 -->
     <item>
       <title>068. Memories from the Past</title>
-      <itunes:episode>68</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>68</itunes:episode>
       <description>A discussion on memories from our past...</description>
       <pubDate>Sun, 16 Jan 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 068 - Memories From The Past.mp3" length="15881993" type="audio/mpeg"/>
@@ -727,7 +798,8 @@
     <!-- Episode 069 -->
     <item>
       <title>069. The Fish that Got Away</title>
-      <itunes:episode>69</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>69</itunes:episode>
       <description>A story about the fish that got away...</description>
       <pubDate>Sun, 23 Jan 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 069 - The Fish That Got Away.mp3" length="16166201" type="audio/mpeg"/>
@@ -737,7 +809,8 @@
     <!-- Episode 070 -->
     <item>
       <title>070. Spring Time</title>
-      <itunes:episode>70</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>70</itunes:episode>
       <description>Let's talk about springtime.</description>
       <pubDate>Sun, 30 Jan 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 070 - Spring Time.mp3" length="10300100" type="audio/mpeg"/>
@@ -746,7 +819,8 @@
     <!-- Episode 071 -->
     <item>
       <title>071. A Few Things I Have Learned</title>
-      <itunes:episode>71</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>71</itunes:episode>
       <description>While celebrating her birthday, Sonja talks about a few things she has learned along the way.</description>
       <pubDate>Sun, 06 Feb 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 071 A Few Things I Have Learned.mp3" length="17304213" type="audio/mpeg"/>
@@ -756,7 +830,8 @@
     <!-- Episode 072 -->
     <item>
       <title>072. Freddie Freckles (part 1)</title>
-      <itunes:episode>72</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>72</itunes:episode>
       <description>Part 1 of the story of Freddie Freckles.</description>
       <pubDate>Sun, 13 Feb 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 072 Freddie Freckles Part 1.mp3" length="20812853" type="audio/mpeg"/>
@@ -766,7 +841,8 @@
     <!-- Episode 073 -->
     <item>
       <title>073. Freddie Freckles (part 2)</title>
-      <itunes:episode>73</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>73</itunes:episode>
       <description>Part 2, the conclusion of the story of Freddie Freckles.</description>
       <pubDate>Sun, 20 Feb 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 073 Freddie Freckles Part 2.mp3" length="14692917" type="audio/mpeg"/>
@@ -776,7 +852,8 @@
     <!-- Episode 074 -->
     <item>
       <title>074. I Was a Singing Cook</title>
-      <itunes:episode>74</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>74</itunes:episode>
       <description>Do you sing at work?</description>
       <pubDate>Sun, 27 Feb 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 074 - I Was A Singing Cook.mp3" length="14206976" type="audio/mpeg"/>
@@ -786,7 +863,8 @@
     <!-- Episode 075 -->
     <item>
       <title>075. I Am a Traveler</title>
-      <itunes:episode>75</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>75</itunes:episode>
       <description>Sonja discusses being a traveler of the mind, body, and spirit.</description>
       <pubDate>Sun, 06 Mar 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 075 - I Am A Traveler.mp3" length="14739950" type="audio/mpeg"/>
@@ -796,7 +874,8 @@
     <!-- Episode 076 -->
     <item>
       <title>076. I No Longer Wanted to Be Me</title>
-      <itunes:episode>76</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>76</itunes:episode>
       <description>Have you ever compared yourself to others who seem to have it all?</description>
       <pubDate>Sun, 13 Mar 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 076 - I No Longer Wanted To Be Me.mp3" length="16864257" type="audio/mpeg"/>
@@ -806,7 +885,8 @@
     <!-- Episode 077 -->
     <item>
       <title>077. I Shall Continue to Follow God</title>
-      <itunes:episode>77</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>77</itunes:episode>
       <description>In the valley, he restoreth my strength.</description>
       <pubDate>Sun, 20 Mar 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 077 - I Shall Continue To Follow God.mp3" length="14632309" type="audio/mpeg"/>
@@ -816,7 +896,8 @@
     <!-- Episode 078 -->
     <item>
       <title>078. I Wonder</title>
-      <itunes:episode>78</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>78</itunes:episode>
       <description>Do you ever wonder?</description>
       <pubDate>Sun, 27 Mar 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 078 - I Wonder.mp3" length="6768321" type="audio/mpeg"/>
@@ -826,7 +907,8 @@
     <!-- Episode 079 -->
     <item>
       <title>079. Jesus and the Man at the Tombs</title>
-      <itunes:episode>79</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>79</itunes:episode>
       <description>It doesn't matter how bad the situation is, hope can be found.</description>
       <pubDate>Sun, 10 Apr 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 079 - Jesus and the Man At The Tombs.mp3" length="13542525" type="audio/mpeg"/>
@@ -836,7 +918,8 @@
     <!-- Episode 080 -->
     <item>
       <title>080. My Daddy Made My Lunch</title>
-      <itunes:episode>80</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>80</itunes:episode>
       <description>A talk on being grateful for what you have been given.</description>
       <pubDate>Sun, 17 Apr 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 080 - My Daddy Made My Lunch.mp3" length="14892501" type="audio/mpeg"/>
@@ -845,7 +928,8 @@
     <!-- Episode 081 -->
     <item>
       <title>081. Planting the Garden with Mom and Dad</title>
-      <itunes:episode>81</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>81</itunes:episode>
       <description>Memories of gardening with mom, dad, and a dog.</description>
       <pubDate>Sun, 24 Apr 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 081 - Planting The Garden With Mom and Dad.mp3" length="15267633" type="audio/mpeg"/>
@@ -855,7 +939,8 @@
     <!-- Episode 082 -->
     <item>
       <title>082. Rescuing the Abused</title>
-      <itunes:episode>82</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>82</itunes:episode>
       <description>The story of a rescued puppy named Shiloh.</description>
       <pubDate>Sun, 08 May 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 082 - Rescuing The Abused.mp3" length="16157842" type="audio/mpeg"/>
@@ -865,7 +950,8 @@
     <!-- Episode 083 -->
     <item>
       <title>083. Shoes I'll Never Wear</title>
-      <itunes:episode>83</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>83</itunes:episode>
       <description>There are many different shoes we could fill.</description>
       <pubDate>Sun, 15 May 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 083 - Shoes I'll Never Wear.mp3" length="16681346" type="audio/mpeg"/>
@@ -875,7 +961,8 @@
     <!-- Episode 084 -->
     <item>
       <title>084. Singing in the Prison</title>
-      <itunes:episode>84</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>84</itunes:episode>
       <description>Sonja shares a story about the significance of Paul and Silas singing in jail.</description>
       <pubDate>Sun, 22 May 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 084 - Singing In The Prison.mp3" length="13895714" type="audio/mpeg"/>
@@ -885,7 +972,8 @@
     <!-- Episode 085 -->
     <item>
       <title>085. The Potential of Paul</title>
-      <itunes:episode>85</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>85</itunes:episode>
       <description>God sees your potential and has a plan for you.</description>
       <pubDate>Sun, 29 May 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 085 - The Potential of Paul.mp3" length="17003179" type="audio/mpeg"/>
@@ -895,7 +983,8 @@
     <!-- Episode 086 -->
     <item>
       <title>086. They Just Could Not Accept</title>
-      <itunes:episode>86</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>86</itunes:episode>
       <description>There are those who choose not to believe, even in the face of pain and suffering.</description>
       <pubDate>Sun, 05 Jun 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 086 - They Just Could Not  Accept.mp3" length="9815406" type="audio/mpeg"/>
@@ -905,7 +994,8 @@
     <!-- Episode 087 -->
     <item>
       <title>087. Three Ghostly Visitors</title>
-      <itunes:episode>87</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>87</itunes:episode>
       <description>A tale of three ghostly visitors who aren't as they seem.</description>
       <pubDate>Sun, 19 Jun 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 087 - Three Ghostly Visitors.mp3" length="10845617" type="audio/mpeg"/>
@@ -915,7 +1005,8 @@
     <!-- Episode 088 -->
     <item>
       <title>088. Visited by Angels</title>
-      <itunes:episode>88</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>88</itunes:episode>
       <description>Have you ever been visited by angels?</description>
       <pubDate>Sun, 26 Jun 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 088 - Visited By Angels.mp3" length="23281943" type="audio/mpeg"/>
@@ -925,7 +1016,8 @@
     <!-- Episode 089 -->
     <item>
       <title>089. When I Accepted the Call</title>
-      <itunes:episode>89</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>89</itunes:episode>
       <description>Sonja tells us the story of when she accepted her calling.</description>
       <pubDate>Sun, 03 Jul 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 089 - When I Accepted The Call.mp3" length="19252872" type="audio/mpeg"/>
@@ -935,7 +1027,8 @@
     <!-- Episode 090 -->
     <item>
       <title>090. Visiting the Apple Orchard and the Strawberry Patch</title>
-      <itunes:episode>90</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>90</itunes:episode>
       <description>When was the last time you visited an apple orchard or strawberry patch? You can almost taste them, can't you?</description>
       <pubDate>Sun, 10 Jul 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 090 - Visiting The Apple Orchard And The Strawberry Patch.mp3" length="14933422" type="audio/mpeg"/>
@@ -944,7 +1037,8 @@
     <!-- Episode 091 -->
     <item>
       <title>091. Kitchen Help</title>
-      <itunes:episode>91</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>91</itunes:episode>
       <description>Sometimes you just need someone with a positive attitude that can help you find your way.</description>
       <pubDate>Mon, 18 Jul 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 091 - Kitchen Help.mp3" length="19471294" type="audio/mpeg"/>
@@ -954,7 +1048,8 @@
     <!-- Episode 092 -->
     <item>
       <title>092. If You Don't Feel It, Don't Deal With It</title>
-      <itunes:episode>92</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>92</itunes:episode>
       <description>Find out what makes you feel fulfilled.</description>
       <pubDate>Sun, 24 Jul 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 092 - If You Don't Feel It Don't Deal With It.mp3" length="14015837" type="audio/mpeg"/>
@@ -964,7 +1059,8 @@
     <!-- Episode 093 -->
     <item>
       <title>093. Don't Bite the Hand That Could Feed You</title>
-      <itunes:episode>93</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>93</itunes:episode>
       <description>A fundamental lesson that deserves repeating.</description>
       <pubDate>Sun, 31 Jul 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 093 - Don't Bite The Hand That Could Feed You.mp3" length="16132811" type="audio/mpeg"/>
@@ -974,7 +1070,8 @@
     <!-- Episode 094 -->
     <item>
       <title>094. Old Homestead Living</title>
-      <itunes:episode>94</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>94</itunes:episode>
       <description>Keep the fire burning.</description>
       <pubDate>Sun, 07 Aug 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 094 - Old Homestead Living.mp3" length="18982163" type="audio/mpeg"/>
@@ -984,7 +1081,8 @@
     <!-- Episode 095 -->
     <item>
       <title>095. Overcoming Fear</title>
-      <itunes:episode>95</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>95</itunes:episode>
       <description>A lesson on overcoming fear.</description>
       <pubDate>Sun, 14 Aug 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 095 - Overcoming Fear.mp3" length="13332402" type="audio/mpeg"/>
@@ -994,7 +1092,8 @@
     <!-- Episode 096 -->
     <item>
       <title>096. What to Do With Those Who Say Hurtful Things</title>
-      <itunes:episode>96</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>96</itunes:episode>
       <description>There is a better way to approach negativity.</description>
       <pubDate>Sun, 21 Aug 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 096 - What To Do With Those Who Say Hurtful Things.mp3" length="11438094" type="audio/mpeg"/>
@@ -1004,7 +1103,8 @@
     <!-- Episode 097 -->
     <item>
       <title>097. Take Time to Listen to Your Children</title>
-      <itunes:episode>97</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>97</itunes:episode>
       <description>It only takes a bit of your time, yet it is so very important to listen.</description>
       <pubDate>Sun, 28 Aug 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 097 - Take Time To Listen To Your Children.mp3" length="15571748" type="audio/mpeg"/>
@@ -1014,7 +1114,8 @@
     <!-- Episode 098 -->
     <item>
       <title>098. Two Years Completed</title>
-      <itunes:episode>98</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>98</itunes:episode>
       <description>As we celebrate completing two years of making this podcast, we would like to thank everyone for your support and for tuning in to Out Here On The Farm. Thank you!</description>
       <pubDate>Sun, 04 Sep 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 098 - Two Years Completed.mp3" length="8542868" type="audio/mpeg"/>
@@ -1024,7 +1125,8 @@
     <!-- Episode 099 -->
     <item>
       <title>099. Autumn Time</title>
-      <itunes:episode>99</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>99</itunes:episode>
       <description>The beautiful fall season is upon us.</description>
       <pubDate>Fri, 14 Oct 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 099 - Autumn Time.mp3" length="13119253" type="audio/mpeg"/>
@@ -1034,7 +1136,8 @@
     <!-- Episode 100 -->
     <item>
       <title>100. Night Fright</title>
-      <itunes:episode>100</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>100</itunes:episode>
       <description>Just in time for the spooky season comes a tale of a fright in the night.</description>
       <pubDate>Fri, 28 Oct 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 100 - Night Fright.mp3" length="22097091" type="audio/mpeg"/>
@@ -1043,7 +1146,8 @@
     <!-- Episode 101 -->
     <item>
       <title>101. Mr. T. the Tomcat</title>
-      <itunes:episode>101</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>101</itunes:episode>
       <description>The story of Mr. T the Tomcat.</description>
       <pubDate>Thu, 17 Nov 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 101 - Mr T The Tomcat.mp3" length="14580019" type="audio/mpeg"/>
@@ -1053,7 +1157,8 @@
     <!-- Episode 102 -->
     <item>
       <title>102. Pressured to Make a Decision</title>
-      <itunes:episode>102</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>102</itunes:episode>
       <description>Have you ever been pressured into making a decision?</description>
       <pubDate>Fri, 18 Nov 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 102 - Pressured To Make A Decision.mp3" length="17675073" type="audio/mpeg"/>
@@ -1063,7 +1168,8 @@
     <!-- Episode 103 -->
     <item>
       <title>103. The Big Dipper</title>
-      <itunes:episode>103</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>103</itunes:episode>
       <description>A man and a bucket of gold...</description>
       <pubDate>Fri, 09 Dec 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 103 - The Big Dipper.mp3" length="32745562" type="audio/mpeg"/>
@@ -1073,7 +1179,8 @@
     <!-- Episode 104 -->
     <item>
       <title>104. Christmas Shopping</title>
-      <itunes:episode>104</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>104</itunes:episode>
       <description>Have you ever waited too long to do your Christmas shopping?</description>
       <pubDate>Fri, 23 Dec 2022 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 104 - Christmas Shopping.mp3" length="20977992" type="audio/mpeg"/>
@@ -1083,7 +1190,8 @@
     <!-- Episode 105 -->
     <item>
       <title>105. A Message From Beyond</title>
-      <itunes:episode>105</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>105</itunes:episode>
       <description>Have you ever received a message from beyond?</description>
       <pubDate>Fri, 06 Jan 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 105 - A Message From Beyond.mp3" length="20098163" type="audio/mpeg"/>
@@ -1093,7 +1201,8 @@
     <!-- Episode 106 -->
     <item>
       <title>106. Acting On a Stage</title>
-      <itunes:episode>106</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>106</itunes:episode>
       <description>Talking about the transition from "acting on a stage" in life into being who you are meant to be.</description>
       <pubDate>Fri, 20 Jan 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 106 - Acting On A Stage.mp3" length="13042064" type="audio/mpeg"/>
@@ -1103,7 +1212,8 @@
     <!-- Episode 107 -->
     <item>
       <title>107. Forming Your Own Opinion</title>
-      <itunes:episode>107</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>107</itunes:episode>
       <description>A discussion on the importance of learning to form your own opinion.</description>
       <pubDate>Fri, 03 Feb 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 107 - Forming Your Own Opinion.mp3" length="16998003" type="audio/mpeg"/>
@@ -1113,7 +1223,8 @@
     <!-- Episode 108 -->
     <item>
       <title>108. From a Sword to a Quill</title>
-      <itunes:episode>108</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>108</itunes:episode>
       <description>Discussing the difficulty of changing assignments in life.</description>
       <pubDate>Fri, 17 Feb 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 108 - From a Sword to a Quill.mp3" length="20148349" type="audio/mpeg"/>
@@ -1123,7 +1234,8 @@
     <!-- Episode 109 -->
     <item>
       <title>109. Negative Can Inspire Positive</title>
-      <itunes:episode>109</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>109</itunes:episode>
       <description>Understanding how negative can inspire positive in our lives.</description>
       <pubDate>Fri, 03 Mar 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 109 - Negative Can Inspire Positive.mp3" length="17594636" type="audio/mpeg"/>
@@ -1133,7 +1245,8 @@
     <!-- Episode 110 -->
     <item>
       <title>110. Sharing In Unfavorable Conditions</title>
-      <itunes:episode>110</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>110</itunes:episode>
       <description>Learning to put forth the effort to work toward victory.</description>
       <pubDate>Fri, 17 Mar 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 110 - Sharing In Unfavorable Conditions.mp3" length="19852658" type="audio/mpeg"/>
@@ -1142,7 +1255,8 @@
     <!-- Episode 111 -->
     <item>
       <title>111. Mom Was a Blue Ribbon Cook</title>
-      <itunes:episode>111</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>111</itunes:episode>
       <description>Memories of mother and her excellent cooking.</description>
       <pubDate>Fri, 07 Apr 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 111 - Mom Was a Blue Ribbon Cook.mp3" length="15370010" type="audio/mpeg"/>
@@ -1152,7 +1266,8 @@
     <!-- Episode 112 -->
     <item>
       <title>112. A Walk in the Woods</title>
-      <itunes:episode>112</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>112</itunes:episode>
       <description>It's time to take a walk in the woods.</description>
       <pubDate>Sat, 15 Apr 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 112 - A Walk in the Woods.mp3" length="12243647" type="audio/mpeg"/>
@@ -1162,7 +1277,8 @@
     <!-- Episode 113 -->
     <item>
       <title>113. Building a Future</title>
-      <itunes:episode>113</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>113</itunes:episode>
       <description>Learning to build a fire and a future.</description>
       <pubDate>Fri, 05 May 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 113 - Building a Future.mp3" length="18671856" type="audio/mpeg"/>
@@ -1172,7 +1288,8 @@
     <!-- Episode 114 -->
     <item>
       <title>114. Singing Was Her Prayer</title>
-      <itunes:episode>114</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>114</itunes:episode>
       <description>The girl who would not stop singing.</description>
       <pubDate>Fri, 19 May 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 114 - Singing Was Her Prayer.mp3" length="24689429" type="audio/mpeg"/>
@@ -1182,7 +1299,8 @@
     <!-- Episode 115 -->
     <item>
       <title>115. There is Someone for Everyone</title>
-      <itunes:episode>115</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>115</itunes:episode>
       <description>Sonja returns with a message of hope.</description>
       <pubDate>Tue, 27 Jun 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 115 - There Is Someone For Everyone.mp3" length="15677200" type="audio/mpeg"/>
@@ -1192,7 +1310,8 @@
     <!-- Episode 116 -->
     <item>
       <title>116. What Once Was Is No Longer</title>
-      <itunes:episode>116</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>116</itunes:episode>
       <description>Things may change, but it doesn't mean it's all over.</description>
       <pubDate>Fri, 07 Jul 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 116 - What Once Was Is No Longer.mp3" length="14878924" type="audio/mpeg"/>
@@ -1202,7 +1321,8 @@
     <!-- Episode 117 -->
     <item>
       <title>117. Three Years Completed</title>
-      <itunes:episode>117</itunes:episode>
+    <link>https://archive.org/details/out-here-on-the-farm-podcast</link>
+         <itunes:episode>117</itunes:episode>
       <description>Sonja shares a message of thanks and gratitude. Many thanks to those who have listened and been so supportive of the podcast for the last three years. We sincerely appreciate it.</description>
       <pubDate>Sun, 30 Jul 2023 00:00:00 -0400</pubDate>
       <enclosure url="https://archive.org/download/out-here-on-the-farm-podcast/Out Here On The Farm - Episode 117 - Three Years Completed.mp3" length="9331803" type="audio/mpeg"/>

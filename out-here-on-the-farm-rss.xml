@@ -17,8 +17,9 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://archive.org/download/out-here-on-the-farm-podcast/Out-Here-On-The-Farm---Cover-Art-v1-3000x3000.jpg"/>
-    <itunes:category text="Spirituality">
-    </itunes:category>
+<itunes:category text="Religion & Spirituality">
+  <itunes:category text="Spirituality"/>
+</itunes:category>
 
     <!-- Episode 001 -->
     <item>

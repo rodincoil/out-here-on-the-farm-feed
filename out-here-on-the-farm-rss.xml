@@ -15,9 +15,9 @@
       <itunes:name>Sonja Arnold</itunes:name>
       <itunes:email>kevindhartnell@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://archive.org/download/out-here-on-the-farm-podcast/Out-Here-On-The-Farm---Cover-Art-v1-3000x3000.jpg"/>
-    <itunes:category text="Religion">
+    <itunes:category text="Spirituality">
     </itunes:category>
 
     <!-- Episode 001 -->
